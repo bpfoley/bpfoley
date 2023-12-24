@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bpfoley/bpfoley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpfoley&theme=buefy&show_icons=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true)  [![GitHub Streak](https://streak-stats.demolab.com/?user=darrachbarneveld)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bpfoley&no-frame=true))](https://github.com/ryo-ma/github-profile-trophy) 
+
+- - - 
+  
+![GitHub User's stars](https://img.shields.io/github/stars/bpfoley?style=social) 
+![](https://komarev.com/ghpvc/?username=bpfoley&color=blueviolet&style=flat-square)
